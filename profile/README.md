@@ -2,7 +2,7 @@
 
 ## Video Pitch
 
-Uploading to YouTube...
+[YouTube Link](https://youtu.be/G6QvBej8fCU)
 
 ## The Problem
 
