@@ -67,7 +67,9 @@ ECHO addresses a salient painpoint, so the main questions to ask in terms of its
 4. **Expanding ecosystem of consumer-focused app:** Trends enabled by (1) (2) and (3) positions Solana as the go-to blockchain for Web3 entertainment; Potential to leverage Web3 *composability* to the fullest to develop a seamless consumer user experience following developments of complementary consumer dapps
 
 ### Why deploying ECHO on Solana may be beneficial to the Solana ecosystem:
+
 **Onboarding Web2 users:** ECHO positions itself as a “gateway” app for web2 consumers through handling custodial wallet creation (Similar to Brave Wallet); abstracts away Web3 complexities in the design of UX
+
 **Alleviating negative perception:** By positioning ECHO as a social media with a good cause, a successful implementation of ECHO would serve well to alleviate the negative perceptions around Solana consumer apps as epitomised by projects like StepN
 
 ------
@@ -77,21 +79,29 @@ $ECHO will be the core protocol token in ECHO. We have decided against making it
 (Refer to Technical User Flow for more details)
 
 **$ECHO's Demand:**
+
 Utilities in ECHO Communities:
+
 1. Weighted votes in voting for community events
 2. "Trending" posts in community feed determined by weighted share of $ECHO tokens
 3. Spend $ECHO to customise avatar, get new skins (Reference: Discord)
 4. Spend $ECHO to obtain limited edition sticker packs (Reference: Discord)
+
 Governance (After Staking $ECHO:
+
 1. Have a say in major changes in ECHO community
 2. Participate in content moderation in ECHO community
 3. Have a say in directing future developments in ECHO ecosystem
 
 **$ECHO's Supply:**
+
 Distribution:
+
 1. Token reward for fine-tuning model through feedbacks given
 2. Airdrops to early supporters (eg. Beta testers, social media influencers)
+
 Supply:
+
 - Fixed supply
 - Fair-launched, minted when users provide meaningful feedback for fine-tuning
 - Decay overtime: early users get more $ECHO per feedback
@@ -100,6 +110,7 @@ Supply:
 While the ability to "find their people" provides a ready source of intrinsic motivation for users, NFTs makes the community experience more fun through a certain degree of gamification. 
 
 In the early implementation of ECHO, NFTs come in 3 forms:
+
 1. Badges (reference: Reddit contribution badges)
 2. Mural Board (reference: BAYC bathroom wall)
 3. Avatar customisations (eg. hats, sunglasses, etc)
