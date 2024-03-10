@@ -8,6 +8,7 @@
 
 Social media used to be social. Nowadays, it's a battleground for attention, with algorithms deciding what we see and when we see it. This has led to a situation where we are constantly bombarded with content that we don't care about, and we are missing out on the content that we do care about. This is a problem that we are solving with Project ECHO.
 
+## Solution: ECHO
 ECHO is a web3 social media aggregator platform that helps disillusioned users gain control of their own feed algorithms through "finding their people." Users connect their social media platforms and explicitly select their interests, and ECHO aggregates content across these platforms to create a customized feed.
 
 Users engage with the content by marking what they like or dislike, enhancing the app's understanding of their preferences. This process not only refines their feed over time but also earns them tokens and progresses them towards unlocking an exclusive community feature. 
@@ -28,15 +29,7 @@ The community aspect is at the heart of ECHO, connecting users with others who s
 | Embeddings | [Link](https://github.com/ECHO-LONDON/ECHO-Embeddings) | Finding closeness between topic and text embeddings. |
 | Filecoin | [Link](https://github.com/ECHO-LONDON/ECHO-Filecoin-FVM) | Implementation of Filecoin for ECHO. |
 
-## Full Technical User Flow
-![3.png](./3.png)
-
-## Challenge - Best AI Use Case for Gaming, Social or Digital Entertainment
-
-At its heart, ECHO seeks to revolutionize the way we interact with social media. By leveraging AI, we are able to provide users with a personalized feed that is tailored to their interests, and to connect them with others who share similar interests.
-
 ## User Profile
-
 The user of ECHO will typically be a disillusioned individual who:
 
 1. Spends lots of time everyday doom-scolling on social media,
@@ -44,7 +37,14 @@ The user of ECHO will typically be a disillusioned individual who:
 3. Can't help himself from doing so (maybe tried to stay away from social media but didn't work), and
 4. Wants to make a positive change
 
-## Use Case of AI
+## Full Technical User Flow
+![3.png](./3.png)
+
+## Challenge - Best AI Use Case for Gaming, Social or Digital Entertainment
+
+At its heart, ECHO seeks to revolutionize the way we interact with social media. By leveraging AI, we are able to provide users with a personalized feed that is tailored to their interests, and to connect them with others who share similar interests.
+
+### Use Case of AI
 Simply: take back control control of your attention
 
 When the user creates an account with ECHO, our algorithm takes the user's feed from selected sources (Tik Tok, Instagram, Twitter) to build an INITIAL understanding of the user's profile. This initial user profile reflects the digital image of the user in the eyes of the social media giants - The user himself has no control over this digital image.
@@ -78,8 +78,9 @@ ECHO addresses a salient painpoint, so the main questions to ask in terms of its
 **Onboarding Web2 users:** ECHO positions itself as a “gateway” app for web2 consumers through handling custodial wallet creation (Similar to Brave Wallet); abstracts away Web3 complexities in the design of UX
 **Alleviating negative perception:** By positioning ECHO as a social media with a good cause, a successful implementation of ECHO would serve well to alleviate the negative perceptions around Solana consumer apps as epitomised by projects like StepN
 
-## Tokenomics
-### Fungible Token: $ECHO (Reference: Reddit Coins)
+------
+### Tokenomics
+#### Fungible Token: $ECHO (Reference: Reddit Coins)
 $ECHO will be the core protocol token in ECHO. We have decided against making it tradable on the secondary market as doing so introduces an incentive for farming - hence making it counterproductive given ECHO's emphasis on harnessing intrinsic over extrinsic motivations (user gives feedback to better curate his or her feed algorithm, not to get money). The Tokenomics of $ECHO comes can be understood in terms of its demand and supply:
 (Refer to Technical User Flow for more details)
 
@@ -103,5 +104,16 @@ Supply:
 - Fair-launched, minted when users provide meaningful feedback for fine-tuning
 - Decay overtime: early users get more $ECHO per feedback
 
-### Non-Fungible Tokens (Reference: Reddit Badges, Lens Protocol profiles & architecture)
-NFTs in ECHO comes in 3 types: 
+#### Non-Fungible Tokens (Reference: Reddit Badges, Lens Protocol profiles & architecture)
+While the ability to "find their people" provides a ready source of intrinsic motivation for users, NFTs makes the community experience more fun through a certain degree of gamification. 
+
+In the early implementation of ECHO, NFTs come in 3 forms:
+1. Badges (reference: Reddit contribution badges)
+2. Mural Board (reference: BAYC bathroom wall)
+3. Avatar customisations (eg. hats, sunglasses, etc)
+
+Badges can be earned through active and meaningful engagement with the community (eg. join/host community online events such as Friday Poetry Night on live voice channel - referencing Discord events).
+Bades (+$ECHO) unlocks access to community mural board, where users can add pixels to co-create an art-work which will be saved as an NFT (Doesn't have to be an art-work. If, say, the community loves aesthetic quotes and poetry etc, this collective piece can even be a communal poetry collection)
+Users can exchange $ECHO for avatar customisations. Limited edition customisations (eg. santa hat) can be obtained during special periods/events/accomplishments
+
+In the long-term when there is more of a thriving consumer dapp ecosystem on Solana, NFTs can be leveraged together with composability of blockchain networks to enable seamless and magical user experience. Users can possibly take their avatars to other social medias/ consumer dapps while retaining their social graph etc.
