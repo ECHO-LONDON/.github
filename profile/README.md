@@ -22,11 +22,26 @@ The community aspect is at the heart of ECHO, connecting users with others who s
 | Embeddings | [Link](https://github.com/ECHO-LONDON/ECHO-Embeddings) | Finding closeness between topic and text embeddings. |
 | Filecoin | [Link](https://github.com/ECHO-LONDON/ECHO-Filecoin-FVM) | Implementation of Filecoin for ECHO. |
 
+# Full Technical User Flow
+![3.png](./3.png)
+
 # Challenge - Best AI Use Case for Gaming, Social or Digital Entertainment
 
 At its heart, ECHO seeks to revolutionize the way we interact with social media. By leveraging AI, we are able to provide users with a personalized feed that is tailored to their interests, and to connect them with others who share similar interests.
 
-![3.png](./3.png)
+## User Profile
+The user of ECHO will typically be a disillusioned individual who:
+1. Spends lots of time everyday doom-scolling on social media,
+2. Is aware of its detrimental effects on his or her mental health,
+3. Can't help himself from doing so (maybe tried to stay away from social media but didn't work), and
+4. Wants to make a positive change
+
+## Use Case of AI
+Simply: take back control control of your attention
+
+When the user creates an account with ECHO, our algorithm takes the user's feed from selected sources (Tik Tok, Instagram, Twitter) to build an INITIAL understanding of the user's profile. This initial user profile reflects the digital image of the user in the eyes of the social media giants - The user himself has no control over this digital image.
+
+Through giving feedback to the ECHO algorithm on what kind of content he wants to see, the user helps to finetune the model and persoanlise his digital user profile. This ECHO user profile will gradually grow to reflect not just the user's true image of himself, but his IDEAL image - hence slowly helping him to become his ideal social media self.
 
 # Challenge - Most promising AI x Web3 Build Using Filecoin
 
@@ -35,3 +50,5 @@ Utilising Filecoin, our project leverages the localnet Filecoin Virtual Machine 
 The pre-processing system before upload is yet to be decided due to not having all parameters we want to store yet. However, when storing the data onto the blockchain we leverage Lighthouse as a median to easily instruct the FVM on the files and to extract relevant information and parameters required. In the future, have the process fully streamlined and secured in all stages via encryption and without utilising a "middle-man" like lighthouse. The tracking of file progress and publishing in this case was all done through "boost" the local host. Once published, if deals are established, Lassie Fetch mechanism was used to retrieve files but a very specific variation that considers peer-to-peer networks due to being on localnet.
 
 Our project illustrates a comprehensive understanding of Filecoin, addressing real-world challenges with innovative solutions. Our social media aggregator filters content to deliver relevance, enhancing user interaction and feedback processes, with data securely stored on Filecoin. Our team's expertise, coupled with a clear business model, positions us for impactful execution, demonstrating our project's potential through a concise and compelling pitch.
+
+# Challenge - 
