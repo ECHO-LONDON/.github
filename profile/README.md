@@ -1,5 +1,11 @@
 # Echo
 
+## Video Pitch
+
+Uploading to YouTube...
+
+## The Problem
+
 Social media used to be social. Nowadays, it's a battleground for attention, with algorithms deciding what we see and when we see it. This has led to a situation where we are constantly bombarded with content that we don't care about, and we are missing out on the content that we do care about. This is a problem that we are solving with Project ECHO.
 
 ECHO is a web3 social media aggregator platform that helps disillusioned users gain control of their own feed algorithms through "finding their people." Users connect their social media platforms and explicitly select their interests, and ECHO aggregates content across these platforms to create a customized feed.
@@ -12,7 +18,7 @@ The community aspect is at the heart of ECHO, connecting users with others who s
 
 ![2.png](./2.png)
 
-# Codebase
+## Codebase
 
 | Title | Link | Description |
 | :---- |:---- | :---------- |
@@ -22,10 +28,7 @@ The community aspect is at the heart of ECHO, connecting users with others who s
 | Embeddings | [Link](https://github.com/ECHO-LONDON/ECHO-Embeddings) | Finding closeness between topic and text embeddings. |
 | Filecoin | [Link](https://github.com/ECHO-LONDON/ECHO-Filecoin-FVM) | Implementation of Filecoin for ECHO. |
 
-# Full Technical User Flow
-![3.png](./3.png)
-
-# Challenge - Best AI Use Case for Gaming, Social or Digital Entertainment
+## Challenge - Best AI Use Case for Gaming, Social or Digital Entertainment
 
 At its heart, ECHO seeks to revolutionize the way we interact with social media. By leveraging AI, we are able to provide users with a personalized feed that is tailored to their interests, and to connect them with others who share similar interests.
 
@@ -43,7 +46,7 @@ When the user creates an account with ECHO, our algorithm takes the user's feed 
 
 Through giving feedback to the ECHO algorithm on what kind of content he wants to see, the user helps to finetune the model and persoanlise his digital user profile. This ECHO user profile will gradually grow to reflect not just the user's true image of himself, but his IDEAL image - hence slowly helping him to become his ideal social media self.
 
-# Challenge - Most promising AI x Web3 Build Using Filecoin
+## Challenge - Most promising AI x Web3 Build Using Filecoin
 
 Utilising Filecoin, our project leverages the localnet Filecoin Virtual Machine (FVM) for smart contracts, to enhance data proofing processes. Our solution leverages Filecoin for secure "Customer preference" storage and in the future complete customer profile, employing cryptographic practices for data allows for security for sensitive data related to users. As a result, Filecoin allows for the storing of a pre-processed customer dataset ready to be utilised on a machine learning model to identify profile similarities for our "community tab". This approach not only ensures privacy and security but also enables personalised user experiences. All this is based on data users provide us about their views on certain content allowing us to build a clustering model from the data we store on Filecoin.
 
