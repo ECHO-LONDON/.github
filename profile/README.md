@@ -14,5 +14,5 @@ The community aspect is at the heart of ECHO, connecting users with others who s
 
 | Title | Link | Description |
 | :---- |:---- | :---------- |
-| Web application | [Link](https://github.com/zeyu2001/london-hackathon) | Full-stack webapp written in Next.js. Select interests, connect Reddit & Mastodon, and unlock Echo Community. |
+| Web application | [Link](https://github.com/ECHO-LONDON/echo-web) | Full-stack webapp written in Next.js. Select interests, connect Reddit & Mastodon, and unlock Echo Community. |
 | Solana smart contract | [Link](https://github.com/VenroyDEV/ECHO-BACKEND) | Smart contract to reward users of ECHO for reviewing data.
