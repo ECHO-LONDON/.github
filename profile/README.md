@@ -104,6 +104,12 @@ In the early implementation of ECHO, NFTs come in 3 forms:
 2. Mural Board (reference: BAYC bathroom wall)
 3. Avatar customisations (eg. hats, sunglasses, etc)
 
+Badges can be earned through active and meaningful engagement with the community (eg. join/host community online events such as Friday Poetry Night on live voice channel - referencing Discord events).
+Bades (+$ECHO) unlocks access to community mural board, where users can add pixels to co-create an art-work which will be saved as an NFT (Doesn't have to be an art-work. If, say, the community loves aesthetic quotes and poetry etc, this collective piece can even be a communal poetry collection)
+Users can exchange $ECHO for avatar customisations. Limited edition customisations (eg. santa hat) can be obtained during special periods/events/accomplishments
+
+In the long-term when there is more of a thriving consumer dapp ecosystem on Solana, NFTs can be leveraged together with composability of blockchain networks to enable seamless and magical user experience. Users can possibly take their avatars to other social medias/ consumer dapps while retaining their social graph etc.
+
 ## Challenge - Most promising AI x Web3 Build Using Filecoin
 
 Utilising Filecoin, our project leverages the localnet Filecoin Virtual Machine (FVM) for smart contracts, to enhance data proofing processes. Our solution leverages Filecoin for secure "Customer preference" storage and in the future complete customer profile, employing cryptographic practices for data allows for security for sensitive data related to users. As a result, Filecoin allows for the storing of a pre-processed customer dataset ready to be utilised on a machine learning model to identify profile similarities for our "community tab". This approach not only ensures privacy and security but also enables personalised user experiences. All this is based on data users provide us about their views on certain content allowing us to build a clustering model from the data we store on Filecoin.
@@ -111,9 +117,3 @@ Utilising Filecoin, our project leverages the localnet Filecoin Virtual Machine 
 The pre-processing system before upload is yet to be decided due to not having all parameters we want to store yet. However, when storing the data onto the blockchain we leverage Lighthouse as a median to easily instruct the FVM on the files and to extract relevant information and parameters required. In the future, have the process fully streamlined and secured in all stages via encryption and without utilising a "middle-man" like lighthouse. The tracking of file progress and publishing in this case was all done through "boost" the local host. Once published, if deals are established, Lassie Fetch mechanism was used to retrieve files but a very specific variation that considers peer-to-peer networks due to being on localnet.
 
 Our project illustrates a comprehensive understanding of Filecoin, addressing real-world challenges with innovative solutions. Our social media aggregator filters content to deliver relevance, enhancing user interaction and feedback processes, with data securely stored on Filecoin. Our team's expertise, coupled with a clear business model, positions us for impactful execution, demonstrating our project's potential through a concise and compelling pitch.
-
-Badges can be earned through active and meaningful engagement with the community (eg. join/host community online events such as Friday Poetry Night on live voice channel - referencing Discord events).
-Bades (+$ECHO) unlocks access to community mural board, where users can add pixels to co-create an art-work which will be saved as an NFT (Doesn't have to be an art-work. If, say, the community loves aesthetic quotes and poetry etc, this collective piece can even be a communal poetry collection)
-Users can exchange $ECHO for avatar customisations. Limited edition customisations (eg. santa hat) can be obtained during special periods/events/accomplishments
-
-In the long-term when there is more of a thriving consumer dapp ecosystem on Solana, NFTs can be leveraged together with composability of blockchain networks to enable seamless and magical user experience. Users can possibly take their avatars to other social medias/ consumer dapps while retaining their social graph etc.
