@@ -51,14 +51,6 @@ When the user creates an account with ECHO, our algorithm takes the user's feed 
 
 Through giving feedback to the ECHO algorithm on what kind of content he wants to see, the user helps to finetune the model and persoanlise his digital user profile. This ECHO user profile will gradually grow to reflect not just the user's true image of himself, but his IDEAL image - hence slowly helping him to become his ideal social media self.
 
-## Challenge - Most promising AI x Web3 Build Using Filecoin
-
-Utilising Filecoin, our project leverages the localnet Filecoin Virtual Machine (FVM) for smart contracts, to enhance data proofing processes. Our solution leverages Filecoin for secure "Customer preference" storage and in the future complete customer profile, employing cryptographic practices for data allows for security for sensitive data related to users. As a result, Filecoin allows for the storing of a pre-processed customer dataset ready to be utilised on a machine learning model to identify profile similarities for our "community tab". This approach not only ensures privacy and security but also enables personalised user experiences. All this is based on data users provide us about their views on certain content allowing us to build a clustering model from the data we store on Filecoin.
-
-The pre-processing system before upload is yet to be decided due to not having all parameters we want to store yet. However, when storing the data onto the blockchain we leverage Lighthouse as a median to easily instruct the FVM on the files and to extract relevant information and parameters required. In the future, have the process fully streamlined and secured in all stages via encryption and without utilising a "middle-man" like lighthouse. The tracking of file progress and publishing in this case was all done through "boost" the local host. Once published, if deals are established, Lassie Fetch mechanism was used to retrieve files but a very specific variation that considers peer-to-peer networks due to being on localnet.
-
-Our project illustrates a comprehensive understanding of Filecoin, addressing real-world challenges with innovative solutions. Our social media aggregator filters content to deliver relevance, enhancing user interaction and feedback processes, with data securely stored on Filecoin. Our team's expertise, coupled with a clear business model, positions us for impactful execution, demonstrating our project's potential through a concise and compelling pitch.
-
 ## Challenge - AI Solutions for Emerging Tech Industries
 ECHO addresses a salient painpoint, so the main questions to ask in terms of its web3 implementations are:
 1. Why implement ECHO as a Web3 social media app instead of a Web2 one?
@@ -111,6 +103,14 @@ In the early implementation of ECHO, NFTs come in 3 forms:
 1. Badges (reference: Reddit contribution badges)
 2. Mural Board (reference: BAYC bathroom wall)
 3. Avatar customisations (eg. hats, sunglasses, etc)
+
+## Challenge - Most promising AI x Web3 Build Using Filecoin
+
+Utilising Filecoin, our project leverages the localnet Filecoin Virtual Machine (FVM) for smart contracts, to enhance data proofing processes. Our solution leverages Filecoin for secure "Customer preference" storage and in the future complete customer profile, employing cryptographic practices for data allows for security for sensitive data related to users. As a result, Filecoin allows for the storing of a pre-processed customer dataset ready to be utilised on a machine learning model to identify profile similarities for our "community tab". This approach not only ensures privacy and security but also enables personalised user experiences. All this is based on data users provide us about their views on certain content allowing us to build a clustering model from the data we store on Filecoin.
+
+The pre-processing system before upload is yet to be decided due to not having all parameters we want to store yet. However, when storing the data onto the blockchain we leverage Lighthouse as a median to easily instruct the FVM on the files and to extract relevant information and parameters required. In the future, have the process fully streamlined and secured in all stages via encryption and without utilising a "middle-man" like lighthouse. The tracking of file progress and publishing in this case was all done through "boost" the local host. Once published, if deals are established, Lassie Fetch mechanism was used to retrieve files but a very specific variation that considers peer-to-peer networks due to being on localnet.
+
+Our project illustrates a comprehensive understanding of Filecoin, addressing real-world challenges with innovative solutions. Our social media aggregator filters content to deliver relevance, enhancing user interaction and feedback processes, with data securely stored on Filecoin. Our team's expertise, coupled with a clear business model, positions us for impactful execution, demonstrating our project's potential through a concise and compelling pitch.
 
 Badges can be earned through active and meaningful engagement with the community (eg. join/host community online events such as Friday Poetry Night on live voice channel - referencing Discord events).
 Bades (+$ECHO) unlocks access to community mural board, where users can add pixels to co-create an art-work which will be saved as an NFT (Doesn't have to be an art-work. If, say, the community loves aesthetic quotes and poetry etc, this collective piece can even be a communal poetry collection)
