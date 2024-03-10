@@ -79,5 +79,29 @@ ECHO addresses a salient painpoint, so the main questions to ask in terms of its
 **Alleviating negative perception:** By positioning ECHO as a social media with a good cause, a successful implementation of ECHO would serve well to alleviate the negative perceptions around Solana consumer apps as epitomised by projects like StepN
 
 ## Tokenomics
-### Fungible Token: $ECHO
-$ECHO will be the core protocol token in ECHO. We have decided against making it tradable on the secondary market as doing so introduces an incentive for farming - making it counterproductive given the ECHO's emphasis on harnessing intrinsic over extrinsic motivations ( 
+### Fungible Token: $ECHO (Reference: Reddit Coins)
+$ECHO will be the core protocol token in ECHO. We have decided against making it tradable on the secondary market as doing so introduces an incentive for farming - hence making it counterproductive given ECHO's emphasis on harnessing intrinsic over extrinsic motivations (user gives feedback to better curate his or her feed algorithm, not to get money). The Tokenomics of $ECHO comes can be understood in terms of its demand and supply:
+(Refer to Technical User Flow for more details)
+
+**$ECHO's Demand:**
+Utilities in ECHO Communities:
+1. Weighted votes in voting for community events
+2. "Trending" posts in community feed determined by weighted share of $ECHO tokens
+3. Spend $ECHO to customise avatar, get new skins (Reference: Discord)
+4. Spend $ECHO to obtain limited edition sticker packs (Reference: Discord)
+Governance (After Staking $ECHO:
+1. Have a say in major changes in ECHO community
+2. Participate in content moderation in ECHO community
+3. Have a say in directing future developments in ECHO ecosystem
+
+**$ECHO's Supply:**
+Distribution:
+1. Token reward for fine-tuning model through feedbacks given
+2. Airdrops to early supporters (eg. Beta testers, social media influencers)
+Supply:
+- Fixed supply
+- Fair-launched, minted when users provide meaningful feedback for fine-tuning
+- Decay overtime: early users get more $ECHO per feedback
+
+### Non-Fungible Tokens (Reference: Reddit Badges, Lens Protocol profiles & architecture)
+NFTs in ECHO comes in 3 types: 
