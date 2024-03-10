@@ -19,6 +19,7 @@ The community aspect is at the heart of ECHO, connecting users with others who s
 | Web application | [Link](https://github.com/ECHO-LONDON/ECHO-Web) | Full-stack webapp written in Next.js. Select interests, connect Reddit & Mastodon, and unlock Echo Community. |
 | Solana smart contract | [Link](https://github.com/VenroyDEV/ECHO-BACKEND) | Smart contract to reward users of ECHO for reviewing data.
 | Datasets | [Link](https://github.com/ECHO-LONDON/ECHO-DATASETS) | Datasets used for finetuning the LLM. |
+| Embeddings | [Link](https://github.com/ECHO-LONDON/ECHO-DATASETS) | Finding closeness between topic and text embeddings. |
 | Filecoin | [Link](https://github.com/ECHO-LONDON/ECHO-Filecoin-FVM) | Implementation of Filecoin for ECHO. |
 
 # Challenge - Best AI Use Case for Gaming, Social or Digital Entertainment
