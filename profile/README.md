@@ -28,12 +28,17 @@ The community aspect is at the heart of ECHO, connecting users with others who s
 | Embeddings | [Link](https://github.com/ECHO-LONDON/ECHO-Embeddings) | Finding closeness between topic and text embeddings. |
 | Filecoin | [Link](https://github.com/ECHO-LONDON/ECHO-Filecoin-FVM) | Implementation of Filecoin for ECHO. |
 
-## Challenge - Best AI Use Case for Gaming, Social or Digital Entertainment
+# Full Technical User Flow
+![3.png](./3.png)
+
+# Challenge - Best AI Use Case for Gaming, Social or Digital Entertainment
 
 At its heart, ECHO seeks to revolutionize the way we interact with social media. By leveraging AI, we are able to provide users with a personalized feed that is tailored to their interests, and to connect them with others who share similar interests.
 
 ## User Profile
+
 The user of ECHO will typically be a disillusioned individual who:
+
 1. Spends lots of time everyday doom-scolling on social media,
 2. Is aware of its detrimental effects on his or her mental health,
 3. Can't help himself from doing so (maybe tried to stay away from social media but didn't work), and
