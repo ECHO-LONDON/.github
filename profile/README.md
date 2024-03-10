@@ -28,10 +28,10 @@ The community aspect is at the heart of ECHO, connecting users with others who s
 | Embeddings | [Link](https://github.com/ECHO-LONDON/ECHO-Embeddings) | Finding closeness between topic and text embeddings. |
 | Filecoin | [Link](https://github.com/ECHO-LONDON/ECHO-Filecoin-FVM) | Implementation of Filecoin for ECHO. |
 
-# Full Technical User Flow
+## Full Technical User Flow
 ![3.png](./3.png)
 
-# Challenge - Best AI Use Case for Gaming, Social or Digital Entertainment
+## Challenge - Best AI Use Case for Gaming, Social or Digital Entertainment
 
 At its heart, ECHO seeks to revolutionize the way we interact with social media. By leveraging AI, we are able to provide users with a personalized feed that is tailored to their interests, and to connect them with others who share similar interests.
 
@@ -59,7 +59,7 @@ The pre-processing system before upload is yet to be decided due to not having a
 
 Our project illustrates a comprehensive understanding of Filecoin, addressing real-world challenges with innovative solutions. Our social media aggregator filters content to deliver relevance, enhancing user interaction and feedback processes, with data securely stored on Filecoin. Our team's expertise, coupled with a clear business model, positions us for impactful execution, demonstrating our project's potential through a concise and compelling pitch.
 
-# Challenge - AI Solutions for Emerging Tech Industries
+## Challenge - AI Solutions for Emerging Tech Industries
 ECHO addresses a salient painpoint, so the main questions to ask in terms of its web3 implementations are:
 1. Why implement ECHO as a Web3 social media app instead of a Web2 one?
 2. Why build on Solana?
